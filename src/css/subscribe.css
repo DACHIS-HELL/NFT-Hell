@@ -1,0 +1,71 @@
+.subscribe{
+    width: 90%;
+    margin:auto ;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 120px;
+}
+.subscribe h2{
+    font-size: 45px;
+    font-weight: bold;
+
+}
+.subscribe button{
+    height: 60px;
+    width: 160px;
+    background-color: #FCA311;
+    color: #ffffff;
+}
+.subscribe button:hover{
+    height: 60px;
+    width: 160px;
+    cursor: pointer;
+    border-top: 2px solid #FCA311;
+    border-right: 2px solid #FCA311;
+    border-bottom: 2px solid #FCA311;
+    opacity: 70%;
+}
+form{
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+}
+.subscribe input{
+    height: 60px;
+    outline: none;
+    border-top: 2px solid #FCA311;
+    border-left: 2px solid #FCA311;
+    border-bottom: 2px solid #FCA311;
+    border-right: none;
+    width: 330px;
+    background-image:none;
+    background-color:transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none; 
+    padding-left: 30px;
+    font-family: Poppins;
+    font-size: 15px;
+}
+::placeholder {
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    font-family: Poppins;
+    font-size: 15px;
+  }
+  
+  :-ms-input-placeholder {
+   color: rgb(0, 0, 0);
+   font-family: Poppins;
+   font-size: 15px;
+  }
+  
+  ::-ms-input-placeholder { 
+   color: rgb(0, 0, 0);
+   font-family: Poppins;
+   margin-left: 20px;
+   font-size: 15px;
+  }

@@ -1,0 +1,9 @@
+.sect2{
+    height: max-content;
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.sect2 img{
+    width: 160px;
+}

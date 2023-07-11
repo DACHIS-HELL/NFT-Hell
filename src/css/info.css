@@ -1,0 +1,38 @@
+.h-work{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h-work h2{
+    font-size: 45px;
+    font-weight: bold;
+}
+.offers{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.extra4{
+    display: none;
+}
+.offer{
+    width: 80px;
+    height: 80px;
+    background-color: #EEEEEE;
+    border-radius: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-right: 45px;
+}
+
+.of-itm{
+    width: 37px;
+    height: 37px;
+    cursor: pointer;
+}

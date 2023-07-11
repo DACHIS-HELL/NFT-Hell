@@ -1,0 +1,181 @@
+.auction{
+    margin:auto;
+    width: 90%;
+    padding: 20px;
+    margin-top: 130px;
+    height: 130px;
+}
+.auction h2{
+    font-size: 45px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin: auto;
+    width: 320px;
+}
+.auction1{
+  margin:auto;
+  width: 90%;
+  padding: 20px;
+  margin-top: 130px;
+  height: 130px;
+}
+.auction1 h2{
+  font-size: 45px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin: auto;
+  width: 330px;
+}
+.auction4{
+  margin:auto;
+  width: 90%;
+  padding: 20px;
+  margin-top: 130px;
+  height: 130px;
+}
+.auction4 h2{
+  font-size: 45px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin: auto;
+  width: 330px;
+}
+.dm{
+    background-color: #FCA311;
+    padding: 25px;
+    border-radius: 50%;
+    line-height: 30px;
+    position: absolute;
+    z-index: 0;
+    left: 0;
+}
+.ds{
+    position: absolute;
+    z-index: 1;
+    right: 0;
+}
+
+.test{
+  margin-top: 50px;
+  height: 500px;
+  width: 100%;
+}
+.swiper-buttons{
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  right: 0;
+}
+.slider-container{
+  position: relative;
+  height: max-content;
+  width: 90%;
+  margin: auto;
+}
+.costumise{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  background: rgba(217, 217, 217, 0.50);
+  height: 560px;
+  width: 420px;
+  margin: auto;
+}
+.costumise .autor2 img{
+  width: 40px;
+  margin-right: 10px;
+}
+.ar-2{
+  margin-right: 130px;
+}
+.ar-2 p{
+  font-size: 12px;
+  color: #737373;
+  width: 100px;
+}
+.autor2{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.costumise img{
+  width: 362px;
+  height: auto;
+}
+.swiper-button-prev{
+  width: 40px;
+  height: 40px;
+  color: #FCA311;
+  background: none;
+}
+.swiper-button-next{
+  width: 40px;
+  height: 40px;
+  color: #FCA311;
+  background: none;
+}
+.swiper-button-next:hover{
+  opacity: 70%;
+  transition: 0.3s;
+}
+.swiper-button-prev:hover{
+  opacity: 70%;
+  transition: 0.3s;
+}
+.df{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.df2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.bidding{
+  width: 78%;
+  margin-top: 30px;
+}
+.bidding span{
+  color: #ACE;
+}
+.bidding p{
+  color: #b7b7b7;
+}
+.bid2{
+  margin-top: 30px;
+  border-radius: 10px;
+  border: 1px solid #FCA311;
+  background: rgba(233, 215, 167, 0.10);
+  width: 300px;
+  height: 55px;
+  color: #FCA311;
+}
+.bid2:hover{
+  background: #FCA311;
+  cursor: pointer;
+  color: #ffffff;
+  transition: 0.3s;
+}
+.more{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+

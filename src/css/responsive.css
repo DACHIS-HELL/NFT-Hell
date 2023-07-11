@@ -1,0 +1,286 @@
+@media only screen and (max-width: 1230px) {
+    h1 {
+      font-size: 40px!important;
+      width: 340px!important;
+      line-height: 60px!important;
+    }
+    .cnt{
+        padding-top: 80px!important;
+    }
+    .rate{
+        margin-top: 40px!important;
+    }
+    .clicks{
+        margin-top: 30px!important;
+    }
+    .extra4{
+        display: block!important;
+    }
+    .autor{
+        display: flex!important;
+        justify-content: center!important;
+        align-items: center!important;
+        height: max-content!important;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .artist{
+        display: none!important;
+    }
+    .sect2{
+        flex-wrap: wrap;
+    }
+    .offers{
+        flex-wrap: wrap;
+    }
+    footer{
+        flex-wrap: wrap;
+    }
+    footer .about{
+        margin-top: 50px;
+    }
+    .social{
+        display: none!important;
+        flex-direction: column;
+        justify-content: space-around;
+        height: 150px;
+        margin-left: 70px;
+    }
+    .social2{
+        display: flex!important;
+        flex-direction: column;
+        justify-content: space-around;
+        height: 150px;
+        margin-left: 70px;
+    }
+}
+@media only screen and (max-width: 900px) {
+    .sale{
+        display: none;
+    }
+    .navigate{
+        display: none!important;
+    }
+    .sect1{
+        justify-content: center!important;
+    }
+    .menuicon{
+        display: block!important;
+    }
+    
+}
+@media only screen and (max-width: 851px) {
+    .offers{
+        margin: auto!important;
+        display: block!important;
+        padding-top: 50px;
+        height: max-content!important;
+    }
+    .df{
+        margin-top: 30px!important;
+    }
+
+    
+}
+@media only screen and (max-width: 700px) {
+    .sect1{
+       display: block!important;
+    }
+    .sect2{
+        display: flex!important;
+    }
+    .clicks{
+        width: 190px!important;
+    }
+    .clicks button{
+        width: 90px;
+        height: 50px;
+        font-size: 13px;
+
+
+    }
+    .rate article h2{
+        font-size: 22px;
+    }
+    .h-work h2{
+        font-weight: bold;
+    }
+    .rate article p{
+        font-size: 13px;
+    }
+    .h-work h2{
+        text-align: center;
+    }
+
+
+}
+@media only screen and (max-width: 450px) {
+    .cnt h1{
+        width: 240px!important;
+    }
+    .rate article{
+        margin-right: 20px!important;
+    }
+    .logo{
+        padding-left: 20px!important;
+    }
+    .auction1 h2{
+        font-size: 37px!important;
+        width: 275px!important;
+    }
+    .costumise img{
+        width: 262px!important;
+        height: auto;
+        margin: auto;
+      }
+      .df img{
+        display: none!important;
+    }
+    .offer{
+        display: flex!important;
+        justify-content: center!important;
+        align-items: center!important;
+        margin-right: 0!important;
+    }
+}
+@media (max-width:635px){
+    .subscribe h2{
+        font-size: 30px!important;
+    }
+    .subscribe input{
+        width: 200px!important;
+    }
+    .subscribe button{
+        width: 100px!important;
+    }
+    .auction1 h2{
+        font-size: 30px!important;
+        width: 225px!important;
+    }
+    .dm{
+        width: 80px!important;
+    }
+    .auction4 h2{
+        font-size: 30px!important;
+    }
+    .auction4{
+        width: max-content!important;
+    }
+    .h-work h2{
+        font-size: 30px!important;
+        font-weight: bold;
+    }
+    .title2{
+        margin: auto;
+        max-width: 135px!important;
+        width: 100%!important;
+        white-space: pre-wrap;
+    }
+    .title{
+        font-size: 30px!important;
+        width: 223px!important;
+    }
+    
+    .title2 .dm2{
+        left: 0!important;
+        width: 80px;
+        height: 80px;
+    }
+    .title2 .ds2{
+        right: 0!important;
+        left: auto;
+    }
+    .dm3{
+        width: 80px;
+        height: 80px;
+        left: 0!important;
+    }
+    .ds3{
+        right: 0!important;
+    }
+
+}
+@media (max-width:500px){
+    .swiper-buttons svg{
+        width: 30px!important;
+        height: 30px!important;
+    }
+    .swiper-buttons{
+        width: 80px!important;
+    }
+    .costumise{
+        height: 460px!important;
+        width: 300px!important;
+        padding-bottom: 20px!important;
+        margin: auto;
+    }
+    .costumise img{
+        width: 262px!important;
+        height: auto;
+        margin: auto;
+    }
+    .costumise2{
+        height: 380px!important;
+        width: 300px!important;
+        padding-bottom: 20px!important;
+        margin: auto;
+    }
+    .costumise2 img{
+        width: 262px!important;
+        height: auto;
+        margin: auto;
+    }
+    .people article{
+        width: 270px!important;
+    }
+    .articles3 img{
+        width: 48px!important;
+        height: 48px!important;
+    }
+    .cost2{
+        margin-left: 60px!important;
+        border: none!important;
+    }
+    .autor2{
+        width: 120px!important;
+    }
+    .autor2 img{
+        width: 37px!important;
+        height: 37px;
+    }
+    .ar-2{
+        margin-right: 40px!important;
+    }
+    .ar-2 h4{
+        font-size: 14px!important;
+    }
+    .ar-2 p{
+        font-size: 11px!important;
+    }
+    .df svg{
+        width: 23px!important;
+        height: 23px!important;
+
+    }
+    .df p{
+        font-size: 14px;
+    }
+    .bidding{
+        width: 220px!important;
+        margin-top: 15px!important;
+    }
+    .bidding span{
+        font-size: 14px;
+    }
+    .bidding p{
+        font-size: 14px;
+    }
+    .bid2{
+        width: 170px!important;
+        height: 43px!important;
+        font-size: 13px;
+    }
+}
+@media (max-width:350px) {
+}
+
